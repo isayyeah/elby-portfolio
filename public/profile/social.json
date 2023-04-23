@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "gitlab",
+            "href": "https://gitlab.com/elby_111"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/isayyeah"
+        },
+        {
+            "network" : "email",
+            "href": "https://www.google.com/intl/fr/gmail/about/"
+        }
+    ]
+}

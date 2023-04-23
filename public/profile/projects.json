@@ -1,0 +1,55 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/elby-portfolio.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer elby-Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/isayyeah/elby-portfolio"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/estate.jpg",
+            "title": "Real Estate Project",
+            "bodyText": "- manage all the venues, locations, event types. using **LARAVEL** for **VIT** Students.",
+            "links": [
+                {
+                    "text": "GitLab",
+                    "href": "https://gitlab.com/elby_1111/gestion-des-agence-immobiliere"
+                }
+            ],
+            "tags" : [
+                "LARAVEL",
+                "MySql"
+            ]
+        },
+        {
+            "image" : "images/projects/pokemon.png",
+            "title": "MVVM Sample App",
+            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/elbyaz/PokemonAPI-Java/tree/master/PokemonAPI-Java-master"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "MVVM",
+                "Dagger2",
+                "Retrofit2",
+                "RxJava3",
+                "Room Database"
+            ]
+        }        
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "experiences": [
+        {
+            "title": "Real Estate Project",
+            "subtitle": "Venues Management",
+            "workType": "Internship",
+            "workDescription": [
+                "manage all the venues, locations, event types."
+            ],
+            "dateText": "01/07/2021 – 01/09/2021"
+        },
+        {
+            "title": "Pharmacy Location",
+            "subtitle": "MED-Pharmacy",
+            "workType": "Individual project",
+            "workDescription": [
+                "realize application web localization and management of pharmacies."
+            ],
+            "dateText": "15/03/2021 – Present"
+        }
+    ]
+}
